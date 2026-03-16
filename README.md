@@ -41,14 +41,11 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-1/682fee2dda3aa2601dd7bf7e7127a5dbb8aceff7/1.5.jpeg)
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-1/682fee2dda3aa2601dd7bf7e7127a5dbb8aceff7/1.6.jpeg)
 
 
-a.   KVL:
- 
 
-
-b.  KCL:
- 
 
 Calculation:
 
