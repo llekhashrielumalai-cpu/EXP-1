@@ -54,7 +54,7 @@ Calculation:
 
 Tabulation:
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-1/682fee2dda3aa2601dd7bf7e7127a5dbb8aceff7/1.3.jpeg)
-![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-1/682fee2dda3aa2601dd7bf7e7127a5dbb8aceff7/1.4.jpeg)
+ 
 
 
 RESULT:
